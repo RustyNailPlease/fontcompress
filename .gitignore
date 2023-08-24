@@ -1,0 +1,13 @@
+out/
+
+
+#go project ignore
+*.exe
+*.out
+*.test
+*.prof
+*.log
+.vscode
+.iml
+.idea
+*.DS_Store
